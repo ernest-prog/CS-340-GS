@@ -53,3 +53,21 @@ Roadmap/Features (Optional)
 Contact
 Ernest Enriquez
 Ernest.enriquez@snhu.edu 
+
+
+How do you write programs that are maintainable, readable, and adaptable? 
+To write programs that are maintanable, readable, and adaptable you must ensure you code is commented and all documentation is up to date.
+
+Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
+When using widgets it allows us to segment our code. Enabling flexibility for those widgets to be used across numerous dashboards and our code not turning into spaghetti code.I can leverage my learnings from this CRUD module in my career path later on as an sql database engineer. 
+
+How do you approach a problem as a computer scientist? 
+As a computer scientist were trained to evaluate our problem and break it down into smaller sub task. I'd first start with a white board drawing to ensure I completly understand the task and the order of which I will begin to code. This will allow me to implement agile methods which enables me to have a maintainable, readable, and adaptable project in the furture. 
+Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses?
+It differed because the end point tasks was given to us by Grazioso Salvare. We were then to break it down similiar to how each module assignment already had done for us. I first identified all my imports that needed to be created in my dataset. Then once imported ran search queries to ensure datasets were proper. This also enabled me to see what stored values were for making queries. 
+
+What techniques or strategies would you use in the future to create databases to meet other client requests?
+Some techniques I found super valuable were aggregating my pipeline and the $unwind ability. Understanding how to also make a call to a local host is super important for remote work. 
+
+What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+Computer scientists use technology to solve a range of different problems. My role as a computer scientist would help Grazioso Salvare because I have the knowledge to create an structure of data that makes it simple for their employees but we can also create applications that are consumer facing which enables their consumers to create accounts and manaage authorized datasets. 
